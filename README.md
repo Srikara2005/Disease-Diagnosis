@@ -5,6 +5,6 @@ This AI-powered web application helps users identify potential diseases based on
 2. AI powered diagnosis
 3. Hospital and Specialist recomendation
 # Technologies
-Python
-HTML,CSS,Javascript
-Machine learning
+1. Python
+2. HTML,CSS,Javascript
+3. Machine learning
