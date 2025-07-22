@@ -1,2 +1,2 @@
 # Disease-Diagnosis
-Website consisting ML model of the medical dataset used notice the disease the user has got
+Website consisting of ML model of the medical dataset, used to notice the disease the user has got.
